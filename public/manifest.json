@@ -1,0 +1,16 @@
+{
+  "short_name": "FlowSync AI",
+  "name": "FlowSync AI — Intelligent Workflow Automation Platform",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "display": "standalone"
+}
